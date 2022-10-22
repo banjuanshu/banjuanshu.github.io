@@ -12,19 +12,41 @@ I wrote "about me", "career", and "interests" on this page as an example.
 <br/>
 
 # Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
+* Fourth Company (2012/06 ~ )
+  * Live Company
+  * Team Leader of PHP Development Div
+  * Technology Stack
+    * PHP
+    * Golang
+    * MySQL/Redis/kafka
+    * K8S
+  
+* Third Company (2011/04 ~ 2012/04)
+  * Distribution Platform Company
+  * PHP Developer
+  * Technology Stack
+    * PHP
+    * MySQL/Redis
+    * html/css/js
+    
+* Second Company (2009/01 ~ 2011/03)
   * VPN Development Company
-  * Team Leader of VPN Development Div.
+  * Operations
+  * Linux/RouterOS
+
+* First Company (2008/04 ~ 2008/06)
+  * Advertising Design Company
+  * Designer
 
 <br/>
 
 # Interests
 I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
+I'm not afraid to learn languages, but I enjoy using PHP and Golang.
 I like to automate and reduce annoying things.  
 
+<br/>
 
+# Projects
+* [Operawarrior NFT](http://www.operawarrior.com/){:target="\_blank"}
+* [Json Parse Chrome Extensions](http://www.operawarrior.com/){:target="\_blank"}
