@@ -6,7 +6,7 @@ layout: base
   <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-line"></div>
   <div class="post-info">
-    {{ page.date | date: "%b %-d, %Y" }} By {{ site.anchor.name }}
+    {{ page.date | date: "%b %-d, %Y" }} By {{ site.author.name }}
   </div>
 
   {{ content }}
