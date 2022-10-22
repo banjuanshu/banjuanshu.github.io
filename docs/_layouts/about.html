@@ -17,11 +17,11 @@ layout: base
 
     <h1>Latest Posts</h1>
     <div class="portfolio">
-      {% for post in site.posts %}
         <ul>
+        {% for post in site.posts %}
             <li><a href="{{ post.url | prepend: site.baseurl }}" >{{ post.title }}</a></li>
+        {% endfor %}
         </ul>
-      {% endfor %}
     </div>
 
     <div class="social-layer">
