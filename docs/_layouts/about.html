@@ -18,7 +18,10 @@ layout: base
     <h1>Latest Posts</h1>
     <div class="portfolio">
         <ul>
-        {% for post in (site.posts|3) %}
+        {% for post in site.posts %}
+            {% if forloop.index > 3 %}
+            {% break %}
+            {% endif %}
             <li><a href="{{ post.url | prepend: site.baseurl }}" >{{ post.title }}</a></li>
         {% endfor %}
         </ul>
