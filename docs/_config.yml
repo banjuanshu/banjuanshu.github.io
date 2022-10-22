@@ -1,6 +1,6 @@
 # Site settings
 title: Bjs
-baseurl: "/ap"
+baseurl: "/"
 url: "https://banjuanshu.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
