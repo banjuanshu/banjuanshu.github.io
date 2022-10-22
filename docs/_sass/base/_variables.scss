@@ -1,52 +1,28 @@
-// Google Fonts
-@import url(//fonts.googleapis.com/css?family=Roboto+Slab:400,700,300|Roboto:400,700,300|Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,700,600,300);
-
-// Typography
-$base-font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif; // $helvetica;
-$heading-font-family: "Roboto Slab", "Helvetica Neue", "Helvetica", "Arial", sans-serif; // $base-font-family;
-
-// Font Sizes
-$base-font-size: $em-base; // 16px
-
-// Adjust modular scale ratio
-$modular-scale-ratio: $minor-third;
-
-// Line height
-$base-line-height: 1.8;
-$heading-line-height: 1.8;
-
-// Other Sizes
-$base-border-radius: 3px;
-$base-spacing: $base-line-height * $em-base;
-$small-spacing: $base-spacing / 2;
-$base-z-index: 0;
-
 // Colors
-$dark-gray: #333;
-$medium-gray: #999;
-$light-gray: #ddd;
+$default-color: #555;
+$default-shade: #353535;
+$default-tint: #aaa;
+$grey-1: #979797;
+$grey-2: #e5e5e5;
+$grey-3: #f9f9f9;
 $white: #fff;
-// Flat UI Colors. For more, see http://flatuicolors.com/
-$turquoise: #1abc9c;	// Turqoise
-$green: #27ae60;	  	// Nephritis
-$blue: #2980b9;				// Belize Hole
-$purple: #8e44ad;			// Wisteria
-$orange: #d35400;			// Pumpkin
-$red:	#c0392b;				// Pomegranate
-$gray: #7f8c8d;				// Asbestos
-// Even more colors
-$bc-red: #bc0000;
+$shadow-color: rgba(0, 0, 0, .2);
+$code-color: #bf616a;
 
-// Font Colors
-$base-background-color: #fff;
-$base-font-color: $dark-gray;
-$action-color: $blue;
-$highlight-color: tint($action-color, 33%);
+// Fonts
+$serif-primary: 'Libre Baskerville', 'Times New Roman', Times, serif;
+$serif-secondary: Palatino, 'Palatino LT STD', 'Palatino Linotype', 'Book Antiqua', 'Georgia', serif;
+$sans-serif: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif;
+$monospaced: Menlo, Monaco, monospace;
 
-// Border
-$base-border-color: $light-gray;
-$base-border: 1px solid $base-border-color;
+@mixin box-sizing($type: border-box) {
+  -webkit-box-sizing: $type;
+     -moz-box-sizing: $type;
+          box-sizing: $type;
+}
 
-// Forms
-$form-box-shadow: inset 0 1px 3px rgba(#000, 0.06);
-$form-box-shadow-focus: $form-box-shadow, 0 0 5px adjust-color($action-color, $lightness: -5%, $alpha: -0.3);
+@mixin transition($args...) {
+  -webkit-transition: $args;
+     -moz-transition: $args;
+          transition: $args;
+}
