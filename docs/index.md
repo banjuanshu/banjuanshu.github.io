@@ -27,5 +27,4 @@ I am interested in technology trends.
 I'm not afraid to learn languages, but I enjoy using Python.  
 I like to automate and reduce annoying things.  
 
-<br/>
 
