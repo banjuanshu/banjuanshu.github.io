@@ -1,5 +1,5 @@
 # Site settings
-title: 半卷书
+title: BJS
 baseurl: "/"
 url: "https://banjuanshu.github.io"
 google_analytics: "G-QE6N2DJECK" # Tracking ID, e.g. "UA-000000-01"
@@ -7,7 +7,7 @@ google_analytics: "G-QE6N2DJECK" # Tracking ID, e.g. "UA-000000-01"
 # Author
 author:
   name: Bjs
-  desc: 除非你做点什么,否则任何事情都不会改变
+  desc: Nothing will change unless you do something
   email: bjs.null@gmail.com
   selfie: assets/img/avatar.jpg
 
