@@ -3,6 +3,7 @@ title: Bjs BLOG
 baseurl: "/"
 url: "https://banjuanshu.github.io"
 google_analytics: "G-QE6N2DJECK" # Tracking ID, e.g. "UA-000000-01"
+timezone: Asia/Shanghai
 
 # Author
 author:
@@ -60,3 +61,6 @@ exclude:
   - "LICENSE"
   - "READE.md"
   - "screenshot.png"
+
+minima:
+  date_format: "%b %-d, %Y"
