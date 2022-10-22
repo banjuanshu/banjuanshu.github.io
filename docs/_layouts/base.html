@@ -21,6 +21,15 @@
     </main>
 
     <footer>
+
+      <div class="social-layer">
+        <div class="social-icons">
+          <ul>
+            {% include icons.html %}
+          </ul>
+        </div>
+      </div>
+
       <span>
         &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}.
       </span>
