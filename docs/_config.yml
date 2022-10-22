@@ -9,7 +9,7 @@ author:
   name: banjuanshu
   desc: Hello nice to meet you
   email: bjs.null@gmail.com
-  selfie: assets/img/profile.jpg
+  selfie: assets/img/avatar.jpg
 
 # social
 social:
@@ -17,13 +17,13 @@ social:
   behance:
   bitbucket:
   dribbble:
-  facebook: Test
+  facebook: banjuanshu
   flickr:
-  github: kssim
+  github: banjuanshu
   google_plus:
   instagram:
   keybase:
-  linkedin: https://www.linkedin.com/in/kssim/ 
+  linkedin: https://www.linkedin.com/in/banjuanshu/ 
   pinterest:
   reddit:
   soundcloud:
@@ -31,7 +31,7 @@ social:
   steam:
   tumblr:
   gitlab:
-  twitter: Test
+  twitter: banjuanshu
   vimeo:
   wordpress:
   youtube:
