@@ -18,7 +18,7 @@ layout: base
     <h1>Latest Posts</h1>
     <div class="portfolio">
         <ul>
-        {% for post in site.posts %}
+        {% for post in site.posts|3 %}
             <li><a href="{{ post.url | prepend: site.baseurl }}" >{{ post.title }}</a></li>
         {% endfor %}
         </ul>
