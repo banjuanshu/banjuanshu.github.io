@@ -14,7 +14,10 @@ layout: base
   <div class="content">
     {{ content }}
 
-    <div class="portfolio">
+    </br>
+
+
+<div class="portfolio">
   {% for post in paginator.posts %}
     <a href="{{ post.url | prepend: site.baseurl }}" class="portfolio-item">
       <div>
@@ -39,8 +42,6 @@ layout: base
     </br>
   {% endfor %}
 </div>
-
-    </br>
 
     <div class="social-layer">
       <div class="social-icons">
