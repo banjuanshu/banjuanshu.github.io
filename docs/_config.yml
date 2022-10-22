@@ -1,13 +1,13 @@
 # Site settings
-title: Bjs
+title: 半卷书
 baseurl: "/"
 url: "https://banjuanshu.github.io"
-google_analytics: # Tracking ID, e.g. "UA-000000-01"
+google_analytics: "G-QE6N2DJECK" # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: banjuanshu
-  desc: Hello nice to meet you
+  name: Bjs
+  desc: 除非你做点什么,否则任何事情都不会改变
   email: bjs.null@gmail.com
   selfie: assets/img/avatar.jpg
 
