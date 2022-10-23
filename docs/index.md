@@ -14,7 +14,7 @@ Life motto: Nothing will change unless you do something.
 <br/>
 
 # Career
-* Fourth Company (2012/06 ~ )
+* Huafang Group (2012/06 ~ )
   * Live Company
   * Team Leader of PHP Development Div
   * Technology Stack
@@ -24,7 +24,7 @@ Life motto: Nothing will change unless you do something.
     * HTTP/Socket/Rtmp
     * SVN/Git
   
-* Third Company (2011/04 ~ 2012/04)
+* Heibei Wishload (2011/04 ~ 2012/04)
   * Distribution Platform Company
   * PHP Developer
   * Technology Stack
@@ -32,12 +32,12 @@ Life motto: Nothing will change unless you do something.
     * MySQL/Redis
     * HTML/CSS/JS
     
-* Second Company (2009/01 ~ 2011/03)
+* China Unicom (Yanbian Branch) (2009/01 ~ 2011/03)
   * VPN Development Company
   * Operations
   * Linux/RouterOS
 
-* First Company (2008/04 ~ 2008/06)
+* Fang Yan Advertising Co., Ltd. (2008/04 ~ 2008/06)
   * Advertising Design Company
   * Designer
 
