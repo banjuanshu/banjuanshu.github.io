@@ -7,7 +7,7 @@ layout: about
 # About Me
 Bjs is short for "半卷书".<br>
 I am a code porter, never produce code, only port code.🤪<br>
-The programming languages I am good at are PHP and golang, and I like to delve into new technologies. like quiet. Hate pointless meetings.<br>
+The programming languages I am good at are PHP and Golang, and I like to delve into new technologies. like quiet. Hate pointless meetings.<br>
 Life motto: Nothing will change unless you do something.
 
 
