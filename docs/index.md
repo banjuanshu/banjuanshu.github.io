@@ -5,7 +5,7 @@ layout: about
 <br/>
 
 # About Me
-Bjs is short for "半卷书"
+Bjs is short for "半卷书".<br>
 I am a code porter, never produce code, only port code.🤪<br>
 The programming languages I am good at are PHP and golang, and I like to delve into new technologies. like quiet. Hate pointless meetings.<br>
 Life motto: Nothing will change unless you do something.
@@ -22,6 +22,7 @@ Life motto: Nothing will change unless you do something.
     * MySQL/Redis
     * Linux/Nginx/K8S/Kafka
     * HTTP/Socket/Rtmp
+    * SVN/Git
   
 * Third Company (2011/04 ~ 2012/04)
   * Distribution Platform Company
@@ -45,11 +46,11 @@ Life motto: Nothing will change unless you do something.
 # Interests
 I am interested in technology trends.<br>
 I'm not afraid to learn languages, but I enjoy using PHP and Golang.<br>
-I like to automate and reduce annoying things.<br>
+I like to automate and reduce annoying things.
 
 
 <br/>
 
 # Projects
 * [Operawarrior NFT](https://www.operawarrior.com/){:target="\_blank"}
-* [Json Parse Chrome Extensions](https://chrome.google.com/webstore/detail/jsonbjs/elkijihmlkiopckafeadaodcaifolkjb){:target="\_blank"}
+* [Json Parse Of Chrome Extensions](https://chrome.google.com/webstore/detail/jsonbjs/elkijihmlkiopckafeadaodcaifolkjb){:target="\_blank"}
