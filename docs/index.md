@@ -14,7 +14,7 @@ Life motto: Nothing will change unless you do something.
 <br/>
 
 # Career
-* Huafang Group (2012/06 ~ )
+* 6.CN (2012/06 ~ )
   * Live Company
   * Team Leader of PHP Development Div
   * Technology Stack
