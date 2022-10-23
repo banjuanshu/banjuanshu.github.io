@@ -34,7 +34,7 @@ Life motto: Nothing will change unless you do something.
     
 * China Unicom (Yanbian Branch) (2009/01 ~ 2011/03)
   * VPN Development Company
-  * Operations
+  * Ops
   * Linux/RouterOS
 
 * Fang Yan Advertising Co., Ltd. (2008/04 ~ 2008/06)

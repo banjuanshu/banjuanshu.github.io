@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Mac OS forces app icon not to be displayed on Dock"
-info: "MacOS"
-tech: ""
-type: MacOS 
+info: "MacOS skills"
+tech: "System"
+type: "OS" 
 ---
 
 
