@@ -13,7 +13,6 @@ Life motto: Nothing will change unless you do something.
 <br/>
 
 
-
 # Career
 * 6.CN Inc. (2012/06 ~ )
   * Live Company
