@@ -20,9 +20,9 @@ Life motto: Nothing will change unless you do something.
   * Technology Stack
     * PHP/Golang/Lua/Solidity
     * MySQL/Redis/Kafka
-    * CentOS/MacOS
     * Nginx/K8S/Docker
     * HTTP/Socket/Rtmp
+    * CentOS/MacOS
     * SVN/Git
   
 * Heibei Wishload (2011/04 ~ 2012/04)
