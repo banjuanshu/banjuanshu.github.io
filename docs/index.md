@@ -18,9 +18,10 @@ Life motto: Nothing will change unless you do something.
   * Live Company
   * Team Leader of PHP Development Div
   * Technology Stack
-    * PHP/Golang/Solidity
-    * MySQL/Redis
-    * Linux/Nginx/K8S/Kafka
+    * PHP/Golang/Lua/Solidity
+    * MySQL/Redis/Kafka
+    * CentOS/MacOS
+    * Nginx/K8S/Docker
     * HTTP/Socket/Rtmp
     * SVN/Git
   
