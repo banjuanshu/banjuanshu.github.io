@@ -24,7 +24,6 @@ PHP 的 try catch 无法捕获 **Warring**、**Notice** 错误
 set_error_handler([__CLASS__, 'error']);
 set_exception_handler([__CLASS__, 'exception']);
 register_shutdown_function([__CLASS__, 'shutdown']);
-
 ```
 
 
