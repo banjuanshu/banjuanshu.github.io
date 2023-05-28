@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "PHP 如何捕获 Warring、Notice 错误"
-info: "PHP 如何捕获 Warring、Notice 错误"
+title: "PHP 捕获 Warring、Notice 错误"
+info: "PHP 捕获 Warring、Notice 错误"
 tech: "PHP"
 type: "Other"
 ---
