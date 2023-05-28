@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PHP 如何捕获 Warring、Notice 错误"
-info: "一次申请美国银行卡的经历（华美银行）"
+info: "PHP 如何捕获 Warring、Notice 错误"
 tech: "PHP"
 type: "Other"
 ---
