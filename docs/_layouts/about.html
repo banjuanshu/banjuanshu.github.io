@@ -17,7 +17,7 @@ layout: base
     <div class="portfolio">
         <ul>
         {% for post in site.posts %}
-            {% if forloop.index > 3 %}
+            {% if forloop.index > 10 %}
             {% break %}
             {% endif %}
             <li><a href="{{ post.url }}" target="_blank">{{ post.title }}</a></li>
