@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "PHP 捕获 Warring、Notice 错误"
-info: "PHP 捕获 Warring、Notice 错误"
-tech: "PHP"
-type: "Other"
+title: "Github WARNING REMOTE HOST IDENTIFICATION HAS CHANGED"
+info: "Github WARNING-REMOTE HOST IDENTIFICATION HAS CHANGED"
+tech: "Git"
+type: "Tools"
 ---
 
 
