@@ -30,8 +30,15 @@ fatal: Could not read from remote repository.
 
 Please make sure you have the correct access rights
 and the repository exists.
-
 ```
+
+
+
+## 原因分析
+
+It is also possible that a host key has just been changed.
+
+应该是换过电脑，或是修改过 ~/.ssh/known_hosts
 
 
 
@@ -43,4 +50,16 @@ Offending key for IP in /Users/bjs/.ssh/known_hosts:38
 Matching host key in /Users/bjs/.ssh/known_hosts:40
 Are you sure you want to continue connecting (yes/no)? yes  <------ 这里输入yes，然后按回车
 ```
+
+
+
+但是还是总会出现这个，终极解决方案：
+
+```
+删除~/.ssh/known_hosts文件，或者如果你可以判断出known_hosts中原ssh服务器的公钥，删去那部分，
+
+然后后再次建立新的连接，即可获得新的公钥。
+```
+
+
 
