@@ -24,6 +24,7 @@ Life motto: Nothing will change unless you do something.
     * HTTP/Socket/Rtmp
     * CentOS/MacOS
     * SVN/Git
+    * Jira (Plan and formulate jira workflows to improve project workflows)
   
 * Heibei Wishload (2011/04 ~ 2012/04)
   * Distribution Platform Company
