@@ -18,7 +18,7 @@ social:
   behance:
   bitbucket:
   dribbble:
-  facebook: bjs.null
+  #facebook: bjs.null
   flickr:
   github: banjuanshu
   google_plus:
@@ -32,7 +32,7 @@ social:
   steam:
   tumblr:
   gitlab:
-  twitter: banjuanshu
+ # twitter: banjuanshu
   vimeo:
   wordpress:
   youtube:
