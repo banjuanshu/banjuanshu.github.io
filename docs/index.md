@@ -26,7 +26,7 @@ Life motto: Nothing will change unless you do something.
     * SVN/Git
     * Jira (Plan and formulate jira workflows to improve project workflows)
   
-* Heibei Wishload (2011/04 ~ 2012/04)
+* Hebei Wishload (2011/04 ~ 2012/04)
   * Distribution Platform Company
   * PHP Developer
   * Technology Stack
