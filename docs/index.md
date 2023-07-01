@@ -7,7 +7,7 @@ layout: about
 # About Me
 Bjs is short for "半卷书".<br>
 
-I am a senior programmer with over 10 years of experience, currently serving as an architect and team leader. I have extensive expertise in PHP and Golang development and have gained valuable practical experience in both programming languages.
+I am a senior programmer with over 10 years of experience, currently serving as an software architect and team leader. I have extensive expertise in PHP and Golang development and have gained valuable practical experience in both programming languages.
 
 Throughout my career, I have organized and built multiple project management tools that have played a critical role in enhancing team collaboration and project delivery efficiency. I have successfully led teams to complete over 10 innovative projects, demonstrating my strong project management and team leadership skills.
 
