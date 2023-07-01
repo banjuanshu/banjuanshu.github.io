@@ -6,7 +6,6 @@ layout: about
 
 # About Me
 Bjs is short for "半卷书".<br>
-I am a porter of code, never produce code, only carry code.🤪<br>
 
 I am a senior programmer with over 10 years of experience, currently serving as an architect and team leader. I have extensive expertise in PHP and Golang development and have gained valuable practical experience in both programming languages.
 
