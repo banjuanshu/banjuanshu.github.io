@@ -42,7 +42,7 @@ I prioritize teamwork and effective communication, and I excel in collaborating 
   * Ops
   * Linux/RouterOS
 
-* Fang Yan Advertising Co., Ltd. (2008/04 ~ 2008/06)
+* FangYan Advertising (2008/04 ~ 2008/06)
   * Advertising Design Company
   * Designer
 
