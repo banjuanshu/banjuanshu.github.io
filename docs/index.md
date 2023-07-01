@@ -7,8 +7,12 @@ layout: about
 # About Me
 Bjs is short for "半卷书".<br>
 I am a porter of code, never produce code, only carry code.🤪<br>
-The programming languages I am good at are PHP and Golang, and I like to delve into new technologies. like quiet. Hate pointless meetings.<br>
-Life motto: Nothing will change unless you do something.
+
+I am a senior programmer with over 10 years of experience, currently serving as an architect and team leader. I have extensive expertise in PHP and Golang development and have gained valuable practical experience in both programming languages.
+
+Throughout my career, I have organized and built multiple project management tools that have played a critical role in enhancing team collaboration and project delivery efficiency. I have successfully led teams to complete over 10 innovative projects, demonstrating my strong project management and team leadership skills.
+
+I prioritize teamwork and effective communication, and I excel in collaborating with cross-functional teams. I have a proven track record of working collaboratively with team members from diverse backgrounds and skill sets, driving project success collectively. I possess strong problem-solving skills and thrive in high-pressure environments while maintaining excellent performance.
 
 <br/>
 
@@ -22,7 +26,7 @@ Life motto: Nothing will change unless you do something.
     * MySQL/Redis/Kafka
     * Nginx/K8S/Docker
     * HTTP/Socket/Rtmp
-    * CentOS/MacOS
+    * CentOS/Debian/MacOS
     * SVN/Git
     * Jira (Plan and formulate jira workflows to improve project workflows)
   
