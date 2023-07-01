@@ -38,7 +38,7 @@ I prioritize teamwork and effective communication, and I excel in collaborating 
     * HTML/CSS/JS
     
 * China Unicom (Yanbian Branch) (2009/01 ~ 2011/03)
-  * VPN Development Company
+  * VPN Development Department
   * Ops
   * Linux/RouterOS
 
