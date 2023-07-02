@@ -24,7 +24,7 @@ I prioritize teamwork and effective communication, and I excel in collaborating 
     * PHP/Golang/Lua/Solidity
     * MySQL/Redis/Kafka
     * Nginx/K8S/Docker
-    * HTTP/Socket/Rtmp
+    * HTTP/Socket/Rtmp/RTC
     * CentOS/Debian/MacOS
     * SVN/Git
     * Jira (Plan and formulate jira workflows to improve project workflows)
