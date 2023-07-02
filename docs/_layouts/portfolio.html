@@ -32,10 +32,10 @@ layout: base
 
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="//www.banjuanshu.com/{{ paginator.previous_page_path }}" class="left next">Prev</a>
+    <a href="//www.banjuanshu.com{{ paginator.previous_page_path }}" class="left next">Prev</a>
   {% endif %}
   {% if paginator.next_page %}
-    <a href="//www.banjuanshu.com/{{ paginator.next_page_path }}" class="right next">Next</a>
+    <a href="//www.banjuanshu.com{{ paginator.next_page_path }}" class="right next">Next</a>
   {% endif %}
 
   <span>{{ paginator.page }}</span>

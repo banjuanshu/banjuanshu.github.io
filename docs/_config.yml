@@ -54,7 +54,7 @@ plugins:
 # Permalinks
 permalink: /:year-:month-:day/:title.html
 paginate_path: "/portfolio/page:num/"
-paginate: 5
+paginate: 30
 exclude:
   - "Gemfile"
   - "Gemfile.lock"
