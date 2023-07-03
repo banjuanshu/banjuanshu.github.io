@@ -8,6 +8,7 @@ type: "闲聊"
 
 
 
+
 ## **SWOT分析法 【分析阶段】**
 
 包括内部： Strengths-优势、Weaknesses-劣势，外部：Opportunities-机会、Threats-威胁
