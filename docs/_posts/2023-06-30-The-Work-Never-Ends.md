@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Work Never Ends[Forwarded]"
+title: "[Forward] The Work Never Ends"
 info: "The Work Never Ends"
 tech: ""
 type: "闲聊"
