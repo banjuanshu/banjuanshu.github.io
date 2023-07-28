@@ -19,7 +19,7 @@ I prioritize teamwork and effective communication, and I excel in collaborating 
 # Career
 * 6.CN Inc. (2012/06 ~ now)
   * Live Company
-  * Team Leader of PHP Development Div
+  * Leader of the Technology Department
   * Technology Stack
     * PHP/Golang/Lua/Solidity
     * MySQL/Redis/Kafka
