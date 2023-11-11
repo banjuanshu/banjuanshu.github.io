@@ -8,7 +8,7 @@ timezone: Asia/Shanghai
 # Author
 author:
   name: Bjs
-  desc: Nothing will change unless you do something
+  desc: Unless you do something, nothing will change
   email: bjs.null@gmail.com
   selfie: assets/img/avatar.jpg
 
