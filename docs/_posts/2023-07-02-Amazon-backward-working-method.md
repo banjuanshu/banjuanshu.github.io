@@ -3,7 +3,7 @@ layout: post
 title: "亚马逊向后工作法"
 info: "亚马逊向后工作法：以用户为中心的创新之道"
 tech: ""
-type: "个人杂谈"
+type: "闲聊"
 ---
 
 
