@@ -1,5 +1,5 @@
 # Site settings
-title: BJS
+title: 半卷书
 baseurl: "/"
 url: "https://banjuanshu.github.io"
 google_analytics: "G-QE6N2DJECK" # Tracking ID, e.g. "UA-000000-01"
@@ -7,7 +7,7 @@ timezone: Asia/Shanghai
 
 # Author
 author:
-  name: Bjs
+  name: 半卷书
   desc: Unless you do something, nothing will change
   email: bjs.null@gmail.com
   selfie: assets/img/avatar.jpg
